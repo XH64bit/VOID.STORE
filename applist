@@ -1,219 +1,219 @@
 [
-	{
-		"name": "Angry Birds Rio",
-		"description": "Now instead of aggressively killing pigs you can save birds",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-rio.apk",
-		"icon": "https://media.discordapp.net/attachments/1197720344497238056/1197720370778755142/Rioicon.webp?ex=65bc4b04&is=65a9d604&hm=c115f326530e1b146dc9569b290eddd2fc733c3abf9ea1fa88083f72e243be31&=&format=webp&width=1080&height=1080"
-	},
-	{
-		"name": "Angry Birds Classic",
-		"description": "The game about throwing poor birds into buildings to kill bad pigs",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-classic-8-0-3.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-classic-8-0-3.png"
-	},
-	{
-		"name": "Angry Birds Seasons",
-		"description": "They kinda changed the graphics but its still kinda a game about animal abuse",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-seasons-6-6-2.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-seasons-6-6-2.png"
-	},
-	{
-		"name": "Angry Birds Space",
-		"description": "Use your arsenal of space chickens to kill space piggies",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-space-2-2-14.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-space-2-2-14.png"
-	},
-	{
-		"name": "Angry Birds Star Wars",
-		"description": "Аааээээ этот как его там Дарт Нейгер",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-star-wars-1-5-13.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-star-wars-1-5-13.png"
-	},
-	{
-		"name": "BPLE",
-		"description": "Дадада это тот самый софт на свинок для Android 4.4",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BPLE-old-android4.4.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
-	},
-	{
-		"name": "BPLE",
-		"description": "Еще софт на свинок",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BPLE-old.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
-	},
-	{
-		"name": "BP_RE OverTheHorizon",
-		"description": "Крутой софт на свинок",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BP__RE.OverTheHorizon.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
-	},
-	{
-		"name": "Chrome",
-		"description": "The worst browser for your poor Android 4.4 device",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/chromeAndroid4.4.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
-	},
-        {
-		"name": "AIDA64",
-		"description": "Проверка наличия снапедригона в самсе",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/aida64.apk",
-		"icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/aida64.png"
-	},
-	{
-		"name": "DeviceInfoHW",
-		"description": "Check if the proximity sensor works on your Huwi Nova 2 with adroid 14 GSI",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/deviceinfohw.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971996588380210/unnamed.webp?ex=65bd355d&is=65aac05d&hm=eee7eaf87a13693c87e2980a9df743496be0492df2a85720dada6da17a1ea77e&"
-	},
-        {
-		"name": "AnyDesk",
-		"description": "Отдай свой какафон индусам чтобы они удалили с него миуи удаленно",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/anydesk.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197989374193840359/29cdcfa5-a58d-4c2a-8a6f-daa75d1d2d56.png.webp?ex=65bd458c&is=65aad08c&hm=f1ab6d642bc7e4044569eb4905837066507a524726f25cd159091589d6658634&"
-	},
-	{
-		"name": "DuckDuckGo",
-		"description": "Ducks",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/duckduckgo.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972114146340956/e3452226f9679a697d733f0d9b1e95cc4312e40a95d8f981f366a3e27ee598e9-200.webp?ex=65bd3579&is=65aac079&hm=bcb25180bf6ba7107a6732095b6132d7803b95cb3c15501f6c317f586c7f4f31&"
-	},
-	{
-		"name": "FileManager Plus",
-		"description": "Your wonderful description here",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/fileManagerPlus.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972113705943041/ap_resize.php.png?ex=65bd3579&is=65aac079&hm=d900a948b95f62b5dd46d88e3ea0274150bbb32ecfcb14d58d0645c746a59c2d&"
-	},
-	{
-		"name": "Firefox",
-		"description": "Browser for opening that World Wide Web thing",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/firefox.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197990137154506884/Screenshot_2024-01-19_at_16.44.59.png?ex=65bd4642&is=65aad142&hm=d0c1003116e7f9ce1d89a7ef9c1601546709165c4acf39cfc3b2a75f02f6315e&"
-	},
-	{
-		"name": "Gboard",
-		"description": "Welcome to Gboard clipboard, any text you copy will be saved here.",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/gboard.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971995128762490/unnamed-2.png?ex=65bd355c&is=65aac05c&hm=81d403e3fcec011c0569f3b4bf346564cc0955c6b846fec8fa7b3b9ee4bcbc6d&"
-	},
-	{
-		"name": "Firefox",
-		"description": "The best browser for your Android 4.4 device",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/firefoxAndroid4.4.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197990396463165601/Screenshot_2024-01-19_at_16.46.01.png?ex=65bd4680&is=65aad180&hm=8686765c0663586d4132f0eeb3bdda087b6a7ff2b7aee2ef04542c161504a04e&"
-	},
-	{
-		"name": "Gboard",
-		"description": "Idk AOSP keyboard is fine, Android 4.4",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/gboardAndroid4.4.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971995128762490/unnamed-2.png?ex=65bd355c&is=65aac05c&hm=81d403e3fcec011c0569f3b4bf346564cc0955c6b846fec8fa7b3b9ee4bcbc6d&"
-	},
-	{
-		"name": "Geometry Dash 2.2",
-		"description": "Два точка два не выйдет никогда",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Geometry-Dash-2.2.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971996345114674/unnamed.png?ex=65bd355d&is=65aac05d&hm=98dfd0e229c25080593183f8f078a637a999ba0bc04bd01ec6d7833ecfae2464&"
-	},
-	{
-		"name": "Geometry Dash Meltdown",
-		"description": "Агрессивно разеби свой телефон об стену",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashMentalBrackedown2.2.11.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971994302484519/512x512bb.jpg?ex=65bd355c&is=65aac05c&hm=aa886d917820dc1ef889cc5c29215225debcb127fca45bec44886c69bf55d696&"
-	},
-	{
-		"name": "Geometry Dash Subzero",
-		"description": "We shuved you into the refrigerator",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashSubzero2.2.12.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197989374646833182/512x512bb-2.jpg?ex=65bd458c&is=65aad08c&hm=21a990e4061b6a27a6eff30de7c6210e7a0f4335d32dea3ecd35478e0238f14e&"
-	},
-	{
-		"name": "Geometry Dash World",
-		"description": "Not Minecraft",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashWorld2.2.11.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972113936621628/bb5a2eb0de234a8c41212def15fc2990_icon.png?ex=65bd3579&is=65aac079&hm=347a81ec9f063444379ef7406a4bd478ab17073065bd63a32980474c686bff65&"
-	},
-	{
-		"name": "Google Translate",
-		"description": "لماذا تترجم ذلك؟",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/googleTranslate.apk",
-		"icon": "https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png"
-	},
-	{
-		"name": "Magisk",
-		"description": "Профессионально устанавливай арабские модули для разблокировки 5Ггц на поко х3 про.",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Magisk-v26.4.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972114775486595/Screenshot_2024-01-19_at_01.43.41.png?ex=65bd3579&is=65aac079&hm=7196619086ece708e8b90344c5ce67b3649afa7dc5f1c55424a189f70cd7f1ca&"
-	},
-	{
-		"name": "Partitions Backup",
-		"description": "Randomly steal your device's proprietary software",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/partitionsBackup.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971996059914272/unnamed-6.png?ex=65bd355d&is=65aac05d&hm=c58feb69efee029d6113d70ccff3fdf340fc63ccdb9c46cd645e80d41748c198&"
-	},
-	{
-		"name": "Pinterest",
-		"description": "1000-7",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/pinterest.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971994516410510/pinterest-icon.png?ex=65bd355c&is=65aac05c&hm=cb21b21387f01a5e6bfd5e6d0466418bdbda3f672e30e9c4c22aee5a47844674&"
-	},
-	{
-		"name": "Play Store",
-		"description": "Huawei users really want it, Android 4.4",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/playStoreAndroid4.4.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972114569961592/google-play-icon-1024x1024-ntijeqxd.png?ex=65bd3579&is=65aac079&hm=4d1aff8472adce518a27eaad86337a8bf8e5d7bbb4491a3927d5725f6e36ab55&"
-	},
-	{
-		"name": "Root Explorer",
-		"description": "Discover new ways of breaking your Android device",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/rootExplorer.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197971995829211237/unnamed-5.png?ex=65bd355d&is=65aac05d&hm=29cee443a7dd1eac0c8fd0ee5fd5cb98b78b73ce437861d985f87381ce9fe54d&"
-	},
-	{
-		"name": "SafetyNet Test",
-		"description": "Check if your device makes Google happy",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/safetynettest.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197989374873317418/6347221f4c950-384x384.png?ex=65bd458c&is=65aad08c&hm=3a571263fcce74748b8664912c3c84fd9dea15bac55f223f5d0a4d6e0d652fe1&"
-	},
-	{
-		"name": "Telegram",
-		"description": "Цп",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Telegram.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197990983644745888/telegram-icon-2048x2048-x902pktl.png?ex=65eb6b8c&is=65d8f68c&hm=22e567a4987b5b424b4ee77dfbdd374e42bb17996f1c970e9a0b2f212cdb550c&"
-	},
-	{
-		"name": "YouTube",
-		"description": "Watch how 5-year-olds play Minecraft on their mom's Pentium laptop",
-		"version": "1.0",
-		"file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/youtube.apk",
-		"icon": "https://cdn.discordapp.com/attachments/1197720344497238056/1197972114335088710/free-youtube-logo-icon-2431-thumb.png?ex=65bd3579&is=65aac079&hm=5b17034179e9d410df3bb494e54fd828d15b135c51af6215faffb5ca3ffe1f85&"
-	}
+    {
+        "name": "Angry Birds Rio",
+        "description": "Now instead of aggressively killing pigs you can save birds",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-rio.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-classic-8-0-3.png"
+    },
+    {
+        "name": "Angry Birds Classic",
+        "description": "The game about throwing poor birds into buildings to kill bad pigs",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-classic-8-0-3.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-classic-8-0-3.png"
+    },
+    {
+        "name": "Angry Birds Seasons",
+        "description": "They kinda changed the graphics but its still kinda a game about animal abuse",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-seasons-6-6-2.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-seasons-6-6-2.png"
+    },
+    {
+        "name": "Angry Birds Space",
+        "description": "Use your arsenal of space chickens to kill space piggies",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-space-2-2-14.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-space-2-2-14.png"
+    },
+    {
+        "name": "Angry Birds Star Wars",
+        "description": "Аааээээ этот как его там Дарт Нейгер",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/angry-birds-star-wars-1-5-13.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-star-wars-1-5-13.png"
+    },
+    {
+        "name": "BPLE",
+        "description": "Дадада это тот самый софт на свинок для Android 4.4",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BPLE-old-android4.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
+    },
+    {
+        "name": "BPLE",
+        "description": "Еще софт на свинок",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BPLE-old.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BPLE-old.png"
+    },
+    {
+        "name": "BP_RE OverTheHorizon",
+        "description": "Крутой софт на свинок",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/BP__RE.OverTheHorizon.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/BP__RE.OverTheHorizon.png"
+    },
+    {
+        "name": "Chrome",
+        "description": "The worst browser for your poor Android 4.4 device",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/chromeAndroid4.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/chrome.png"
+    },
+    {
+        "name": "AIDA64",
+        "description": "Проверка наличия снапедригона в самсе",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/aida64.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/aida64.png"
+    },
+    {
+        "name": "DeviceInfoHW",
+        "description": "Check if the proximity sensor works on your Huwi Nova 2 with adroid 14 GSI",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/deviceinfohw.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/deviceinfohw.png"
+    },
+    {
+        "name": "AnyDesk",
+        "description": "Отдай свой какафон индусам чтобы они удалили с него миуи удаленно",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/anydesk.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/anydesk.png"
+    },
+    {
+        "name": "DuckDuckGo",
+        "description": "Ducks",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/duckduckgo.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/duckduckgo.png"
+    },
+    {
+        "name": "FileManager Plus",
+        "description": "Your wonderful description here",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/fileManagerPlus.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/fileManagerPlus.png"
+    },
+    {
+        "name": "Firefox",
+        "description": "Browser for opening that World Wide Web thing",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/firefox.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/firefoxAndroid4.4.png"
+    },
+    {
+        "name": "Gboard",
+        "description": "Welcome to Gboard clipboard, any text you copy will be saved here.",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/gboard.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/gboard.png"
+    },
+    {
+        "name": "Firefox",
+        "description": "The best browser for your Android 4.4 device",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/firefoxAndroid4.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/firefoxAndroid4.4.png"
+    },
+    {
+        "name": "Gboard",
+        "description": "Idk AOSP keyboard is fine, Android 4.4",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/gboardAndroid4.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/gboard.png"
+    },
+    {
+        "name": "Geometry Dash 2.2",
+        "description": "Два точка два не выйдет никогда",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Geometry-Dash-2.2.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/Geometry-Dash.png"
+    },
+    {
+        "name": "Geometry Dash Meltdown",
+        "description": "Агрессивно разеби свой телефон об стену",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashMentalBrackedown2.2.11.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/Geometry-Dash.png"
+    },
+    {
+        "name": "Geometry Dash Subzero",
+        "description": "We shuved you into the refrigerator",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashSubzero2.2.12.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/geometryDashSubzero.png"
+    },
+    {
+        "name": "Geometry Dash World",
+        "description": "Not Minecraft",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/geometryDashWorld2.2.11.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/geometryDashWorld.png"
+    },
+    {
+        "name": "Google Translate",
+        "description": "لماذا تترجم ذلك؟",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/googleTranslate.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/googletranslate.png"
+    },
+    {
+        "name": "Magisk",
+        "description": "Профессионально устанавливай арабские модули для разблокировки 5Ггц на поко х3 про.",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Magisk-v26.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/Magisk.png"
+    },
+    {
+        "name": "Partitions Backup",
+        "description": "Randomly steal your device's proprietary software",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/partitionsBackup.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/partitionsBackup.png"
+    },
+    {
+        "name": "Pinterest",
+        "description": "1000-7",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/pinterest.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/pinterest.png"
+    },
+    {
+        "name": "Play Store",
+        "description": "Huawei users really want it, Android 4.4",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/playStoreAndroid4.4.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/playstore.png"
+    },
+    {
+        "name": "Root Explorer",
+        "description": "Discover new ways of breaking your Android device",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/rootExplorer.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/rootExplorer.png"
+    },
+    {
+        "name": "SafetyNet Test",
+        "description": "Check if your device makes Google happy",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/safetynettest.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/safetynettest.png"
+    },
+    {
+        "name": "Telegram",
+        "description": "Цп",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/Telegram.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/Telegram.png"
+    },
+    {
+        "name": "YouTube",
+        "description": "Watch how 5-year-olds play Minecraft on their mom's Pentium laptop",
+        "version": "1.0",
+        "file": "https://github.com/XH64bit/VOID.STORE/releases/download/ого/youtube.apk",
+        "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/youtube.png"
+    }
 ]
