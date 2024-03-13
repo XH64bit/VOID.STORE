@@ -7,6 +7,13 @@
         "icon": "https://github.com/XH64bit/VOID.STORE/releases/download/%D1%8D/angry-birds-classic-8-0-3.png"
     },
     {
+        "name": "Пыпы",
+        "description": "какатесты",
+        "version": "1.0",
+        "file": "https://gcp.denchik.top/update/CactusClient.zip",
+        "icon": "https://cdn.discordapp.com/attachments/1130655930309161043/1204284097871216690/resize.png?ex=66025077&is=65efdb77&hm=fde8cf8ab000add96b41a07ec8ebcf6279ede806183cce8d4e85e014467214b9&"
+    },
+    {
         "name": "Angry Birds Classic",
         "description": "The game about throwing poor birds into buildings to kill bad pigs",
         "version": "1.0",
